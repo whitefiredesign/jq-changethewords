@@ -1,0 +1,17 @@
+{
+  "name": "jq-changethewords",
+  "homepage": "https://github.com/whitefiredesign/jq-changethewords",
+  "authors": [
+    "bambattajb <joe@white-fire.co.uk>"
+  ],
+  "description": "Change the words with jQuery.",
+  "main": "jquery.changethewords.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

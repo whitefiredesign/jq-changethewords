@@ -3,11 +3,18 @@
 Change the words with jQuery. 
 
 This is an adaptation of the original plugin here - https://github.com/taluttasgiran/changethewords
-It allows for both animateIn and animateOut arguments
+
+It allows for both animateIn and animateOut arguments.
 
 Depends on animate.css library - https://github.com/daneden/animate.css
 
 Best example I have of this working is the hero section of our company website home page - https://white-fire.co.uk
+
+## Install
+Install using bower
+~~~
+bower install jq-changethewords
+~~~
 
 ## USAGE
 Include plugin and animate.css in the project
